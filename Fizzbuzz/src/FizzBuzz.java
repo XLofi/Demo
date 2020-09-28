@@ -4,7 +4,7 @@ import java.util.stream.IntStream;
 
 public class FizzBuzz {
     public static void main(String[] args) throws Exception {
-        fizzBuzzInJava8(100);
+        fizzBuzzInJava8(200);
     }
 
     private static void fizzBuzzInJava8(int num) {
